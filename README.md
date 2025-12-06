@@ -2,7 +2,6 @@
 **HR Employee Attrition — Power BI Report**
 
 
-
 **Author**: Rutuja Patil
 
 **Date**: 2025  
